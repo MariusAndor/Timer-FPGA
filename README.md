@@ -26,8 +26,6 @@ The 50 MHz clock is divided down to 1 Hz using a counter. A state machine tracks
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=&theme=dark)](https://skillicons.dev)
-
 - **Language:** Verilog HDL
 - **Board:** Xilinx FPGA
 - **Display:** Seven-segment display
